@@ -183,7 +183,7 @@ class EventManager:
 関東・都内近郊のCDショップや商業施設で開催される**観覧無料・フリーライブ・リリイベ情報**を自動収集・公開するプロジェクトです。  
 GitHub Actions により毎日自動巡回し、最新情報に更新されます。
 
-🌐 **Web版（GitHub Pages）:** [https://YOUR_GITHUB_USERNAME.github.io/FIDLE/](https://YOUR_GITHUB_USERNAME.github.io/FIDLE/)  
+🌐 **Web版（GitHub Pages）:** [https://gaia915.github.io/FIDLE/](https://gaia915.github.io/FIDLE/)  
 📅 **iCalendar連携 (Googleカレンダー/Appleカレンダー):** `data/events.ics` または Web版から直接登録可能
 
 ---
@@ -195,7 +195,7 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
 | :--- | :--- | :--- | :--- | :--- | :--- |
 {table_md}
 
-> 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://YOUR_GITHUB_USERNAME.github.io/FIDLE/) をご覧ください。
+> 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://gaia915.github.io/FIDLE/) をご覧ください。
 
 ---
 

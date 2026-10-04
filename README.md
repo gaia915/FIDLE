@@ -3,7 +3,7 @@
 関東・都内近郊のCDショップや商業施設で開催される**観覧無料・フリーライブ・リリイベ情報**を自動収集・公開するプロジェクトです。  
 GitHub Actions により毎日自動巡回し、最新情報に更新されます。
 
-🌐 **Web版（GitHub Pages）:** [https://YOUR_GITHUB_USERNAME.github.io/FIDLE/](https://YOUR_GITHUB_USERNAME.github.io/FIDLE/)  
+🌐 **Web版（GitHub Pages）:** [https://gaia915.github.io/FIDLE/](https://gaia915.github.io/FIDLE/)  
 📅 **iCalendar連携 (Googleカレンダー/Appleカレンダー):** `data/events.ics` または Web版から直接登録可能
 
 ---
@@ -34,7 +34,7 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
 | 2026-10-06 | 10:00 | 渋谷 | タワーレコード渋谷店 | [【KO1KEYZ】DEBUT SINGLE『KO1KEYZ』発売記念 タワーレコード渋谷店限定！メンバー店頭挨拶・壁面パネルサイン会観覧イベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/06/233194) | `観覧フリー` |
 | 2026-10-07 | 18:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [Jams Collection　4thミニアルバム「Jam wonder」リリースイベント](https://sunshinecity.jp/event/entry-38996.html) | `優先観覧＋フリー入場あり` |
 
-> 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://YOUR_GITHUB_USERNAME.github.io/FIDLE/) をご覧ください。
+> 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://gaia915.github.io/FIDLE/) をご覧ください。
 
 ---
 
