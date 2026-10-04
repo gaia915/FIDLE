@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FIDLE - 無料アイドルイベント＆リリイベ情報カレンダー</title>
+  <meta name="description" content="関東・都内近郊のCDショップや商業施設で開催される無料アイドルイベント・観覧フリーライブ・リリイベ情報を自動収集して毎日配信！">
+  <link rel="stylesheet" href="style.css">
+  <!-- Google Fonts & Phosphor Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body class="theme-dark">
+  <!-- 背景デコレーション -->
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <!-- ヘッダー -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo-area">
+        <span class="logo-icon">🎤</span>
+        <div>
+          <h1 class="logo-title">FIDLE</h1>
+          <p class="logo-subtitle">無料アイドルイベント＆リリイベ情報</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <a href="data/events.ics" class="btn btn-outline" download title="カレンダーアプリにインポート">
+          <i class="ph ph-calendar-plus"></i> <span class="hide-mobile">iCal登録</span>
+        </a>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/FIDLE" target="_blank" rel="noopener" class="btn btn-icon" title="GitHubリポジトリ">
+          <i class="ph ph-github-logo"></i>
+        </a>
+        <button id="themeToggle" class="btn btn-icon" title="テーマ切り替え">
+          <i class="ph ph-sun" id="themeIcon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- メインコンテンツ -->
+  <main class="main-container">
+    <!-- ヒーローサマリー -->
+    <section class="hero-card">
+      <div class="hero-content">
+        <h2>関東近郊の「観覧無料」「リリイベ」を毎日自動更新 🎯</h2>
+        <p>タワーレコード（渋谷・新宿・関東各店）やサンシャインシティ噴水広場などのフリーライブ情報を自動集約！</p>
+        <div class="hero-stats">
+          <div class="stat-badge">
+            <span class="stat-label">登録イベント数</span>
+            <span class="stat-value" id="totalEventCount">-</span>
+          </div>
+          <div class="stat-badge">
+            <span class="stat-label">最終更新</span>
+            <span class="stat-value" id="lastUpdated">-</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- コントロールバー（検索・フィルタ・表示切替） -->
+    <section class="controls-card">
+      <div class="search-row">
+        <div class="search-input-wrapper">
+          <i class="ph ph-magnifying-glass search-icon"></i>
+          <input type="text" id="searchInput" placeholder="アーティスト名、グループ名、会場、タイトルで検索...">
+          <button id="clearSearch" class="btn-clear" style="display: none;">
+            <i class="ph ph-x"></i>
+          </button>
+        </div>
+        <div class="view-toggles">
+          <button class="view-btn active" data-view="list">
+            <i class="ph ph-list-dashes"></i> リスト
+          </button>
+          <button class="view-btn" data-view="calendar">
+            <i class="ph ph-calendar-blank"></i> カレンダー
+          </button>
+        </div>
+      </div>
+
+      <!-- 絞り込みタグ -->
+      <div class="filter-row">
+        <div class="filter-group">
+          <span class="filter-label"><i class="ph ph-map-pin"></i> エリア:</span>
+          <div class="filter-chips" id="areaChips">
+            <button class="chip active" data-area="all">すべて</button>
+            <button class="chip" data-area="渋谷">渋谷</button>
+            <button class="chip" data-area="池袋">池袋</button>
+            <button class="chip" data-area="新宿">新宿</button>
+            <button class="chip" data-area="錦糸町">錦糸町</button>
+            <button class="chip" data-area="川崎">川崎/海老名</button>
+            <button class="chip" data-area="その他">その他関東</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label"><i class="ph ph-funnel"></i> 条件:</span>
+          <div class="filter-chips" id="conditionChips">
+            <button class="chip active" data-filter="all">すべて</button>
+            <button class="chip" data-filter="today">本日開催</button>
+            <button class="chip" data-filter="weekend">今週末</button>
+            <button class="chip" data-filter="favorites"><i class="ph-fill ph-star text-gold"></i> お気に入り</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- コンテンツ表示エリア -->
+    <!-- 1. リスト表示 -->
+    <section id="listView" class="event-view-container">
+      <div id="eventsList" class="events-list">
+        <div class="loading-state">
+          <i class="ph ph-spinner spinner"></i>
+          <p>最新イベントデータを読み込み中...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. カレンダー表示 -->
+    <section id="calendarView" class="event-view-container" style="display: none;">
+      <div class="calendar-card">
+        <div class="calendar-header">
+          <button id="prevMonth" class="btn btn-icon"><i class="ph ph-caret-left"></i></button>
+          <h3 id="currentMonthYear">2026年 10月</h3>
+          <button id="nextMonth" class="btn btn-icon"><i class="ph ph-caret-right"></i></button>
+        </div>
+        <div class="calendar-grid-header">
+          <span class="day-name sun">日</span>
+          <span class="day-name">月</span>
+          <span class="day-name">火</span>
+          <span class="day-name">水</span>
+          <span class="day-name">木</span>
+          <span class="day-name">金</span>
+          <span class="day-name sat">土</span>
+        </div>
+        <div id="calendarDays" class="calendar-days-grid">
+          <!-- カレンダーセルが動的挿入 -->
+        </div>
+      </div>
+      <div id="calendarDayEvents" class="calendar-day-events" style="display: none;">
+        <h4 id="selectedDayTitle" class="selected-day-title">選択した日のイベント</h4>
+        <div id="selectedDayList" class="events-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- フッター -->
+  <footer class="app-footer">
+    <p>FIDLE (Free IDLE Event Finder) &copy; 2026 | 自動更新スクレイピングシステム</p>
+    <p class="footer-note">※イベントの日時・入場ルール等は予告なく変更される場合があります。参加前に必ず各公式サイトをご確認ください。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
