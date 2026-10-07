@@ -9,11 +9,10 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
 ---
 
 ## 📅 直近の無料イベント一覧 (最新20件)
-*最終更新日時: 2026-10-06 16:29:41 (JST)*
+*最終更新日時: 2026-10-07 01:12:59 (JST)*
 
 | 開催日 | 開演 | エリア | 会場 | イベント名 / 出演 | 観覧条件 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-30 | 11:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [～2026/10/17(土) ボボボーボ・ボーボボ展 DIVE INTO THE BO-BOBO WORLD](https://sunshinecity.jp/event/entry-37758.html) | `観覧無料` |
 | 2026-10-07 | 18:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [Jams Collection　4thミニアルバム「Jam wonder」リリースイベント](https://sunshinecity.jp/event/entry-38996.html) | `優先観覧＋フリー入場あり` |
 | 2026-10-07 | 19:00 | 渋谷 | タワーレコード渋谷店6F TOWER VINYL SHIBUYA | [【COSA NOSTRA M/R /i-dep/生音バンド】ダブルリリース記念イベント　ミニライヴ＆トーク＆サイン会 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/07/234302) | `観覧フリー` |
 | 2026-10-07 | 19:00 | 錦糸町 | 錦糸町パルコ店 | [【Ochunism】ミニライブ＆サイン会](https://tower.jp/store/event/2026/10/1451007o) | `観覧フリー` |
@@ -34,6 +33,7 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
 | 2026-10-10 | 11:00 | 渋谷 | タワーレコード渋谷店 B1F
  | [【Straight Angeli】メジャーデビュー記念！全国ごあいさつフリーライブツアー＆特典会 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/235339) | `フリー入場あり` |
 | 2026-10-10 | 11:00 | 渋谷 | タワーレコード渋谷店B1F CUTUP STUDIO | [【SOYEON】SOYEON 1st Full Album『What a Wonderful Life』発売記念 スペシャルイベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/234735) | `観覧フリー` |
+| 2026-10-10 | 11:00 | 渋谷 | タワーレコード渋谷店6F TOWER VINYL SHIBUYA | [【Dee Quirks (Vue du monde × CV Loops/SEIYA)】「epsode. I」発売記念イベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/233961) | `観覧フリー` |
 
 > 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://gaia915.github.io/FIDLE/) をご覧ください。
 
