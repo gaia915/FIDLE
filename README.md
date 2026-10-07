@@ -9,21 +9,19 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
 ---
 
 ## 📅 直近の無料イベント一覧 (最新20件)
-*最終更新日時: 2026-10-07 01:12:59 (JST)*
+*最終更新日時: 2026-10-07 17:14:37 (JST)*
 
 | 開催日 | 開演 | エリア | 会場 | イベント名 / 出演 | 観覧条件 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-10-07 | 18:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [Jams Collection　4thミニアルバム「Jam wonder」リリースイベント](https://sunshinecity.jp/event/entry-38996.html) | `優先観覧＋フリー入場あり` |
-| 2026-10-07 | 19:00 | 渋谷 | タワーレコード渋谷店6F TOWER VINYL SHIBUYA | [【COSA NOSTRA M/R /i-dep/生音バンド】ダブルリリース記念イベント　ミニライヴ＆トーク＆サイン会 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/07/234302) | `観覧フリー` |
-| 2026-10-07 | 19:00 | 錦糸町 | 錦糸町パルコ店 | [【Ochunism】ミニライブ＆サイン会](https://tower.jp/store/event/2026/10/1451007o) | `観覧フリー` |
-| 2026-10-07 | 時間未定 | 新宿 | 新宿店 | [【LOVE PANIC!×わくめる！】ミニアルバム『Melty Panic Night!』 ミニライブ＆特典会](https://tower.jp/store/event/2026/10/055018l) | `観覧フリー` |
+| 2026-09-30 | 11:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [～2026/10/17(土) ボボボーボ・ボーボボ展 DIVE INTO THE BO-BOBO WORLD](https://sunshinecity.jp/event/entry-37758.html) | `観覧無料` |
 | 2026-10-08 | 15:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [UNiFY 1st Single CD「ゾッコン！ハラペーニョ＆ジャスミーニャ」リリース記念イベント](https://sunshinecity.jp/event/entry-38892.html) | `優先観覧＋フリー入場あり` |
 | 2026-10-08 | 17:00 | 渋谷 | タワーレコード渋谷店5Fイベントスペース | [【平松賢人】メジャーソロデビューシングル第2弾!!「ピジョッソ」発売記念キャンペーンミニライブ！ | タワーレコード渋谷店](https://towershibuya.jp/2026/10/08/235347) | `フリー入場あり` |
 | 2026-10-08 | 18:45 | 新宿 | 新宿店 | [ザ・シスターズハイ「私・僕・君・語」発売記念インストアイベント](https://tower.jp/store/event/2026/10/055007s) | `観覧フリー` |
 | 2026-10-08 | 時間未定 | 関東 | アリオ亀有 1 | [【ZANPA】ZANPA New Digital Single 「ずっキュン!!」リリース記念フリーライブイベント](https://tower.jp/store/event/2026/10/101001) | `観覧フリー` |
 | 2026-10-08 | 時間未定 | 新宿 | 新宿店 | [AQ 2ndアルバム「WW」リリース記念インストアイベント](https://tower.jp/store/event/2026/10/0550010) | `観覧フリー` |
-| 2026-10-09 | 10:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [～2026/12/06(日) PERSONA Memoria](https://sunshinecity.jp/event/entry-38973.html) | `入場無料 各コンテンツのご利用には料金がかかります。` |
+| 2026-10-09 | 10:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [～2026/12/06(日) PERSONA Memoria](https://sunshinecity.jp/event/entry-38889.html) | `入場無料 各コンテンツのご利用には料金がかかります。` |
 | 2026-10-09 | 14:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [～2026/10/11(日) ガシャっと回してポーンツアーズ2026](https://sunshinecity.jp/event/entry-38626.html) | `無料` |
+| 2026-10-09 | 14:00 | 池袋 | サンシャインシティ 噴水広場（池袋） | [Lov. “Collaboration - 4 -”発売記念フリーライブ](https://sunshinecity.jp/event/entry-38574.html) | `優先観覧＋フリー入場あり` |
 | 2026-10-09 | 18:00 | 渋谷 | タワーレコード渋谷店 屋上イベントスペース | [【カンミンス】アルバム『LOVE IS』 ミニライブ＆特典会 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/09/235158) | `フリー入場あり` |
 | 2026-10-09 | 18:30 | 渋谷 | タワーレコード渋谷店 | [【NakamuraEmi】「PATCHWORK LIFE」発売記念リリースイベント＠東京 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/09/230856) | `フリー入場あり` |
 | 2026-10-09 | 19:00 | 渋谷 | タワーレコード渋谷店B1F CUTUP STUDIO | [【First Love is Never Returned】2026年10月7日（水）First Love is Never Returned New Album 『W.O.R.K.S.』リリース記念イベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/09/234864) | `優先観覧＋フリー入場あり` |
@@ -34,6 +32,8 @@ GitHub Actions により毎日自動巡回し、最新情報に更新されま�
  | [【Straight Angeli】メジャーデビュー記念！全国ごあいさつフリーライブツアー＆特典会 | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/235339) | `フリー入場あり` |
 | 2026-10-10 | 11:00 | 渋谷 | タワーレコード渋谷店B1F CUTUP STUDIO | [【SOYEON】SOYEON 1st Full Album『What a Wonderful Life』発売記念 スペシャルイベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/234735) | `観覧フリー` |
 | 2026-10-10 | 11:00 | 渋谷 | タワーレコード渋谷店6F TOWER VINYL SHIBUYA | [【Dee Quirks (Vue du monde × CV Loops/SEIYA)】「epsode. I」発売記念イベント | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/233961) | `観覧フリー` |
+| 2026-10-10 | 11:00 | 錦糸町 | 錦糸町パルコ店 | [風男塾 ニューシングル「SETSUNA -刹那-」リリースイベント　ミニライブ・特典会](https://tower.jp/store/event/2026/10/1451010f) | `観覧フリー` |
+| 2026-10-10 | 12:15 | 渋谷 | タワーレコード渋谷店B1F CUTUP STUDIO | [【二十世紀電氣目録】 10月10日TVアニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』主題歌CDリリースイベント決定！ | タワーレコード渋谷店](https://towershibuya.jp/2026/10/10/234668) | `優先観覧＋フリー入場あり` |
 
 > 💡 全件の一覧や日付検索・カレンダー表示・エリア絞り込みは [Web版 (GitHub Pages)](https://gaia915.github.io/FIDLE/) をご覧ください。
 
