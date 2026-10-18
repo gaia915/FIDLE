@@ -6,138 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:無料アイドルイベント情報
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:12ad2bca7199@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T110000
-DTEND;TZID=Asia/Tokyo:20261018T120000
-SUMMARY:【優先観覧＋フリー入場あり】石見銀山発見５００年記念イベント まるっといわみフェス
-LOCATION:サンシャインシティ 噴水広場（池袋）
-DESCRIPTION:出演: 石見銀山発見５００年記念イベント\n種別: 優先観覧＋フリー入場あり\n詳細: 11:00～19:00\nURL: https://sunshinecity.jp/event/entry-38754.html
-URL:https://sunshinecity.jp/event/entry-38754.html
-END:VEVENT
-BEGIN:VEVENT
-UID:6203fe5ccd8b@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T130000
-DTEND;TZID=Asia/Tokyo:20261018T140000
-SUMMARY:【観覧フリー】【ロジャー・ニコルス】ヴァイナル・リリース記念 ロジャー・ニコルス・フォーエヴァー スペシャル・トークショウ＆特典会 | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店6F TOWER VINYL SHIBUYA
-DESCRIPTION:出演: ロジャー・ニコルス\n種別: 観覧フリー\n詳細: ミニライブ＆特典会\nURL: https://towershibuya.jp/2026/10/18/234281
-URL:https://towershibuya.jp/2026/10/18/234281
-END:VEVENT
-BEGIN:VEVENT
-UID:af963ef9709c@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T130000
-DTEND;TZID=Asia/Tokyo:20261018T140000
-SUMMARY:【フリー入場あり】青春CYBER×Last Prince 合同リリースイベント ミニライブ&特典会
-LOCATION:TOWER RECORDS mini 舞浜イクスピアリ店
-DESCRIPTION:出演: 青春CYBER\n種別: フリー入場あり\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり / フリー入場あり\nURL: https://tower.jp/store/event/2026/10/155004
-URL:https://tower.jp/store/event/2026/10/155004
-END:VEVENT
-BEGIN:VEVENT
-UID:25af15879f2a@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T140000
-DTEND;TZID=Asia/Tokyo:20261018T150000
-SUMMARY:【観覧フリー】【シド】「STORIES of SID」発売記念握手会開催決定！ | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店5Fイベントスペース
-DESCRIPTION:出演: シド\n種別: 観覧フリー\n詳細: ミニライブ＆特典会\nURL: https://towershibuya.jp/2026/10/18/231483
-URL:https://towershibuya.jp/2026/10/18/231483
-END:VEVENT
-BEGIN:VEVENT
-UID:684c2c5ae900@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T140000
-DTEND;TZID=Asia/Tokyo:20261018T150000
-SUMMARY:【フリー入場あり】【東儀秀樹】ミニライブ＆サイン会
-LOCATION:ららぽーとTOKYO-BAY店
-DESCRIPTION:出演: 東儀秀樹\n種別: フリー入場あり\n詳細: ミニライブ / 優先観覧エリア券あり / フリー入場あり\nURL: https://tower.jp/store/event/2026/10/113007
-URL:https://tower.jp/store/event/2026/10/113007
-END:VEVENT
-BEGIN:VEVENT
-UID:410c33c4e136@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T153000
-DTEND;TZID=Asia/Tokyo:20261018T163000
-SUMMARY:【優先観覧＋フリー入場あり】【SUPER FANTASY 8th mini album 「Neverland」 リリース記念イベント ミニライブ＆特典会】
-LOCATION:イオンモール津田沼North店
-DESCRIPTION:出演: SUPER FANTASY 8th mini album 「Neverland」 リリース記念イベント ミニライブ＆特典会\n種別: 優先観覧＋フリー入場あり\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/10781018superfantasy
-URL:https://tower.jp/store/event/2026/10/10781018superfantasy
-END:VEVENT
-BEGIN:VEVENT
-UID:bf140188c174@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T160000
-DTEND;TZID=Asia/Tokyo:20261018T170000
-SUMMARY:【観覧フリー】【ザ・ハーモニクス】「バウンドレス～境界を越えて」CD発売記念イベント | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店 TOWER CLASSICAL SHIBUYA
-DESCRIPTION:出演: ザ・ハーモニクス\n種別: 観覧フリー\n詳細: ミニライブ観覧フリー\nURL: https://towershibuya.jp/2026/10/18/233761
-URL:https://towershibuya.jp/2026/10/18/233761
-END:VEVENT
-BEGIN:VEVENT
-UID:fb3710d4d5e9@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T164500
-DTEND;TZID=Asia/Tokyo:20261018T174500
-SUMMARY:【フリー入場あり】【BNSI】初パッケージ『旬景』 ミニライブ＆特典会 | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店 屋上イベントスペース
-DESCRIPTION:出演: BNSI\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/18/235455
-URL:https://towershibuya.jp/2026/10/18/235455
-END:VEVENT
-BEGIN:VEVENT
-UID:45ee8887a91d@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T170000
-DTEND;TZID=Asia/Tokyo:20261018T180000
-SUMMARY:【観覧フリー】【向井太一】『34』発売記念インストアイベント | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店6F TOWER VINYL SHIBUYA
-DESCRIPTION:出演: 向井太一\n種別: 観覧フリー\n詳細: ミニライブ＆特典会\nURL: https://towershibuya.jp/2026/10/18/234123
-URL:https://towershibuya.jp/2026/10/18/234123
-END:VEVENT
-BEGIN:VEVENT
-UID:d52b62703397@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T183000
-DTEND;TZID=Asia/Tokyo:20261018T193000
-SUMMARY:【フリー入場あり】【GANG PARADE】10月18日(日) 『GANG PARADE PREMIER GOODS SO LONG!! & RANDOM CHEKI EVENT』＠ タワーレコード渋谷店B1F CUTUP STUDIO開催決定のご案内 | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店B1F CUTUP STUDIO
-DESCRIPTION:出演: GANG PARADE\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/18/235948
-URL:https://towershibuya.jp/2026/10/18/235948
-END:VEVENT
-BEGIN:VEVENT
-UID:dede0bf7bfba@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261018T193000
-DTEND;TZID=Asia/Tokyo:20261018T203000
-SUMMARY:【フリー入場あり】【Peel the Apple & ルージュブック & 宵越しのアンサンブル】 フリーライブ | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店 屋上イベントスペース
-DESCRIPTION:出演: Peel the Apple & ルージュブック & 宵越しのアンサンブル\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/18/235452
-URL:https://towershibuya.jp/2026/10/18/235452
-END:VEVENT
-BEGIN:VEVENT
-UID:63443b832160@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261018
-SUMMARY:【フリー入場あり】【Fairy Logue】リリースイベント@吉祥寺パルコ屋上イベントスペース
-LOCATION:吉祥寺パルコ店
-DESCRIPTION:出演: Fairy Logue\n種別: フリー入場あり\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり / フリー入場あり\nURL: https://tower.jp/store/event/2026/10/153006
-URL:https://tower.jp/store/event/2026/10/153006
-END:VEVENT
-BEGIN:VEVENT
-UID:9936caa6114d@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261019T190000
-DTEND;TZID=Asia/Tokyo:20261019T200000
-SUMMARY:【優先観覧＋フリー入場あり】【Crimson Crat Clan】Crimson Crat Clan×タワーレコード渋谷店 毎週渋谷計画 | タワーレコード渋谷店
-LOCATION:タワーレコード渋谷店5Fイベントスペース
-DESCRIPTION:出演: Crimson Crat Clan\n種別: 優先観覧＋フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/19/234011
-URL:https://towershibuya.jp/2026/10/19/234011
-END:VEVENT
-BEGIN:VEVENT
 UID:7db42e20601e@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261019T190000
 DTEND;TZID=Asia/Tokyo:20261019T200000
 SUMMARY:【フリー入場あり】【ミライズ】フリーライブ | タワーレコード渋谷店
@@ -146,18 +16,18 @@ DESCRIPTION:出演: ミライズ\n種別: フリー入場あり\n詳細: ミニ�
 URL:https://towershibuya.jp/2026/10/19/235458
 END:VEVENT
 BEGIN:VEVENT
-UID:065fb0958f26@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261020T100000
-DTEND;TZID=Asia/Tokyo:20261020T110000
-SUMMARY:【無料】～2026/10/21(水) Construction Xross 2026　建設技術展 2026 関東
-LOCATION:サンシャインシティ 噴水広場（池袋）
-DESCRIPTION:出演: ～2026/10/21(水)\n種別: 無料\n詳細: 10:00～17:00 最終日の10月21日は16:00終了\nURL: https://sunshinecity.jp/event/entry-38387.html
-URL:https://sunshinecity.jp/event/entry-38387.html
+UID:9936caa6114d@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261019T190000
+DTEND;TZID=Asia/Tokyo:20261019T200000
+SUMMARY:【優先観覧＋フリー入場あり】【Crimson Crat Clan】Crimson Crat Clan×タワーレコード渋谷店 毎週渋谷計画 | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店5Fイベントスペース
+DESCRIPTION:出演: Crimson Crat Clan\n種別: 優先観覧＋フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/19/234011
+URL:https://towershibuya.jp/2026/10/19/234011
 END:VEVENT
 BEGIN:VEVENT
 UID:df8602fe27b9@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261020T110000
 DTEND;TZID=Asia/Tokyo:20261020T120000
 SUMMARY:【観覧フリー】【ダニー・ハリスン】トーク＆サインセッションイベント | タワーレコード渋谷店
@@ -167,7 +37,7 @@ URL:https://towershibuya.jp/2026/10/20/235471
 END:VEVENT
 BEGIN:VEVENT
 UID:f1f54138a1ce@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261020T180000
 DTEND;TZID=Asia/Tokyo:20261020T190000
 SUMMARY:【フリー入場あり】【Rol3ert】　「meet me in my head」発売記念イベント | タワーレコード渋谷店
@@ -177,7 +47,7 @@ URL:https://towershibuya.jp/2026/10/20/234671
 END:VEVENT
 BEGIN:VEVENT
 UID:d475a47e4ac3@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261020T193000
 DTEND;TZID=Asia/Tokyo:20261020T203000
 SUMMARY:【フリー入場あり】【Devil ANTHEM.】ニューアルバム「未来色」 リリース記念イベント@ タワーレコード渋谷店 | タワーレコード渋谷店
@@ -186,8 +56,18 @@ DESCRIPTION:出演: Devil ANTHEM.\n種別: フリー入場あり\n詳細: ミニ
 URL:https://towershibuya.jp/2026/10/20/235214
 END:VEVENT
 BEGIN:VEVENT
+UID:25474113c786@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261021T130000
+DTEND;TZID=Asia/Tokyo:20261021T140000
+SUMMARY:【観覧フリー】【USPEER】1st Mini Album: 『BITE DISTRICT』プロモーションイベント@ ららぽーとTOKYO-BAY みどりの広場
+LOCATION:千葉・ららぽーとTOKYO-BAY North Gate みどりの広場
+DESCRIPTION:出演: USPEER\n種別: 観覧フリー\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/113006
+URL:https://tower.jp/store/event/2026/10/113006
+END:VEVENT
+BEGIN:VEVENT
 UID:b1c95aa314f4@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261021T190000
 DTEND;TZID=Asia/Tokyo:20261021T200000
 SUMMARY:【観覧フリー】【Hyoma Ikeda】1st mini Album「Effect」10月21日(水)開催 リリース記念スペシャルライブイベント | タワーレコード渋谷店
@@ -196,18 +76,8 @@ DESCRIPTION:出演: Hyoma Ikeda\n種別: 観覧フリー\n詳細: ミニライ�
 URL:https://towershibuya.jp/2026/10/21/235026
 END:VEVENT
 BEGIN:VEVENT
-UID:e65323dbf394@fidle.local
-DTSTAMP:20261018T134532Z
-DTSTART;TZID=Asia/Tokyo:20261021T190000
-DTEND;TZID=Asia/Tokyo:20261021T200000
-SUMMARY:【観覧フリー】【あくまで天使】シングル『タイトル未定』ミニライブ＆特典会
-LOCATION:川崎店
-DESCRIPTION:出演: あくまで天使\n種別: 観覧フリー\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/0221021
-URL:https://tower.jp/store/event/2026/10/0221021
-END:VEVENT
-BEGIN:VEVENT
 UID:cbceb41f68c3@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261021T190000
 DTEND;TZID=Asia/Tokyo:20261021T200000
 SUMMARY:【観覧フリー】【アルテミスの翼】Major 1st EP『Road to Major』ミニライブ＆特典会
@@ -216,8 +86,18 @@ DESCRIPTION:出演: アルテミスの翼\n種別: 観覧フリー\n詳細: ミ�
 URL:https://tower.jp/store/event/2026/10/1451021a
 END:VEVENT
 BEGIN:VEVENT
+UID:e65323dbf394@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261021T190000
+DTEND;TZID=Asia/Tokyo:20261021T200000
+SUMMARY:【観覧フリー】【あくまで天使】シングル『タイトル未定』ミニライブ＆特典会
+LOCATION:川崎店
+DESCRIPTION:出演: あくまで天使\n種別: 観覧フリー\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/0221021
+URL:https://tower.jp/store/event/2026/10/0221021
+END:VEVENT
+BEGIN:VEVENT
 UID:370b42954a78@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261021T190000
 DTEND;TZID=Asia/Tokyo:20261021T200000
 SUMMARY:【優先観覧＋フリー入場あり】Devil ANTHEM.　ニューアルバム「未来色」 リリース記念イベント
@@ -227,7 +107,7 @@ URL:https://sunshinecity.jp/event/entry-39052.html
 END:VEVENT
 BEGIN:VEVENT
 UID:798a7b585ce7@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261021T193000
 DTEND;TZID=Asia/Tokyo:20261021T203000
 SUMMARY:【フリー入場あり】【BANGERS】 Indies 5th Single「MISSION:ONE」リリースイベント | タワーレコード渋谷店
@@ -236,8 +116,48 @@ DESCRIPTION:出演: BANGERS\n種別: フリー入場あり\n詳細: ミニライ
 URL:https://towershibuya.jp/2026/10/21/234576
 END:VEVENT
 BEGIN:VEVENT
+UID:67b9b605b5b0@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261021T194500
+DTEND;TZID=Asia/Tokyo:20261021T204500
+SUMMARY:【観覧フリー】yeti let you notice「量子、微睡、影送り。」発売記念インストアイベント@タワーレコード新宿店　アコースティックライブ＆CDサイン会
+LOCATION:新宿店
+DESCRIPTION:出演: yeti let you notice(出演：Gt.秋好 Vo.大雪男)\n種別: 観覧フリー\n詳細: 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/055013
+URL:https://tower.jp/store/event/2026/10/055013
+END:VEVENT
+BEGIN:VEVENT
+UID:fafcd62b9a2a@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261022T190000
+DTEND;TZID=Asia/Tokyo:20261022T200000
+SUMMARY:【フリー入場あり】【TrES】Pre-Debut Single『System』ミニライブ＆特典会 | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店屋上 イベントスペース
+DESCRIPTION:出演: TrES\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/22/235865
+URL:https://towershibuya.jp/2026/10/22/235865
+END:VEVENT
+BEGIN:VEVENT
+UID:d00cd370fcc0@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261022T193000
+DTEND;TZID=Asia/Tokyo:20261022T203000
+SUMMARY:【フリー入場あり】【ファイヤーサンダー】【シティホテル3号室】　DVD発売記念合同イベント | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店5Fイベントスペース
+DESCRIPTION:出演: ファイヤーサンダー\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/22/234615
+URL:https://towershibuya.jp/2026/10/22/234615
+END:VEVENT
+BEGIN:VEVENT
+UID:0d425ee4a6d9@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:【優先観覧＋フリー入場あり】CiON「THIS IS ME!!!!!/BRASS ON」リリースイベント＠タワーレコード新宿店（東京）開催決定！
+LOCATION:新宿店
+DESCRIPTION:出演: CiON\n種別: 優先観覧＋フリー入場あり\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/055022
+URL:https://tower.jp/store/event/2026/10/055022
+END:VEVENT
+BEGIN:VEVENT
 UID:efeec5e20882@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261023T100000
 DTEND;TZID=Asia/Tokyo:20261023T110000
 SUMMARY:【無料】, 2026/10/24(土) , 2026/10/25(日) 10月開催　ワールドアトリエセール　MAX70%OFF
@@ -247,7 +167,7 @@ URL:https://sunshinecity.jp/event/entry-38995.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ef40c756aa80@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261023T110000
 DTEND;TZID=Asia/Tokyo:20261023T120000
 SUMMARY:【入場無料】～2026/10/25(日) グラニフのファミリーセール2026秋
@@ -256,8 +176,48 @@ DESCRIPTION:出演: ～2026/10/25(日)\n種別: 入場無料\n詳細: 2026年10�
 URL:https://sunshinecity.jp/event/entry-38867.html
 END:VEVENT
 BEGIN:VEVENT
+UID:73a2d8280342@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261023T190000
+DTEND;TZID=Asia/Tokyo:20261023T200000
+SUMMARY:【フリー入場あり】【あくまで天使 & NEOTOKYO-TRIBE & LunaMoon】 フリーライブ | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店 屋上イベントスペース
+DESCRIPTION:出演: あくまで天使 & NEOTOKYO-TRIBE & LunaMoon\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/23/235622
+URL:https://towershibuya.jp/2026/10/23/235622
+END:VEVENT
+BEGIN:VEVENT
+UID:306723738055@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261023T190000
+DTEND;TZID=Asia/Tokyo:20261023T200000
+SUMMARY:【観覧フリー】【末延麻裕子】『DESIBLANSE 〜Paint Your Own Life〜』発売記念イベント | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店8F TOWER CLASSICAL
+DESCRIPTION:出演: 末延麻裕子\n種別: 観覧フリー\n詳細: ミニライブ観覧フリー\nURL: https://towershibuya.jp/2026/10/23/235023
+URL:https://towershibuya.jp/2026/10/23/235023
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3f11439c7a@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+SUMMARY:【観覧フリー】【DILAⅢ】『DILAⅢ 2nd Single 「Watch me burnin' / Make Way!! / STATIC」 リリースイベントツアー
+LOCATION:錦糸町パルコ店
+DESCRIPTION:出演: DILAⅢ\n種別: 観覧フリー\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり\nURL: https://tower.jp/store/event/2026/10/1451023d
+URL:https://tower.jp/store/event/2026/10/1451023d
+END:VEVENT
+BEGIN:VEVENT
+UID:1660a72c3323@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261024T110000
+DTEND;TZID=Asia/Tokyo:20261024T120000
+SUMMARY:【観覧フリー】【THL × TOWER RECORDS SHIBUYA】コラボキャンペーン “THL タワ渋文化祭 2026” 開催 | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店 B1F・5F・9F イベントスペース
+DESCRIPTION:出演: THL × TOWER RECORDS SHIBUYA\n種別: 観覧フリー\n詳細: ミニライブ＆特典会\nURL: https://towershibuya.jp/2026/10/24/235280
+URL:https://towershibuya.jp/2026/10/24/235280
+END:VEVENT
+BEGIN:VEVENT
 UID:ebf2f0a4df1d@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261024T120000
 DTEND;TZID=Asia/Tokyo:20261024T130000
 SUMMARY:【観覧フリー】【なみだ色の消しごむ】シングル『タイトル未定』 ミニライブ＆特典会
@@ -266,8 +226,18 @@ DESCRIPTION:出演: なみだ色の消しごむ\n種別: 観覧フリー\n詳細
 URL:https://tower.jp/store/event/2026/10/1451024n
 END:VEVENT
 BEGIN:VEVENT
+UID:6ac8babe568b@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261025T110000
+DTEND;TZID=Asia/Tokyo:20261025T120000
+SUMMARY:【観覧フリー】【THL × TOWER RECORDS SHIBUYA】コラボキャンペーン “THL タワ渋文化祭 2026” 開催 | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店 B1F・5F・9F イベントスペース
+DESCRIPTION:出演: THL × TOWER RECORDS SHIBUYA\n種別: 観覧フリー\n詳細: ミニライブ＆特典会\nURL: https://towershibuya.jp/2026/10/25/235289
+URL:https://towershibuya.jp/2026/10/25/235289
+END:VEVENT
+BEGIN:VEVENT
 UID:c5b5194b9124@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
 SUMMARY:【フリー入場あり】甘党男子　ミニライブ＆特典会
@@ -276,8 +246,18 @@ DESCRIPTION:出演: 甘党男子\n種別: フリー入場あり\n詳細: ミニ�
 URL:https://tower.jp/store/event/2026/10/155005
 END:VEVENT
 BEGIN:VEVENT
+UID:c2ca805ff005@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;TZID=Asia/Tokyo:20261026T190000
+DTEND;TZID=Asia/Tokyo:20261026T200000
+SUMMARY:【フリー入場あり】【Mirror,Mirror】アルバム『MIRAISM 05』 ミニライブ＆特典会 | タワーレコード渋谷店
+LOCATION:タワーレコード渋谷店 屋上イベントスペース
+DESCRIPTION:出演: Mirror,Mirror\n種別: フリー入場あり\n詳細: ミニライブ＆特典会 / 優先観覧エリア整理券配布あり / フリー入場あり（規定人数に達し次第終了の場合あり）\nURL: https://towershibuya.jp/2026/10/26/235632
+URL:https://towershibuya.jp/2026/10/26/235632
+END:VEVENT
+BEGIN:VEVENT
 UID:3ec56e51c9c3@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261027T110000
 SUMMARY:【無料】語学留学生フェア2026　日本語学校在校生の集い
@@ -287,7 +267,7 @@ URL:https://sunshinecity.jp/event/entry-38792.html
 END:VEVENT
 BEGIN:VEVENT
 UID:f823ca906f7c@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:【観覧フリー】【コングラッチェ！】シングル『ビビビっとビート』 ミニライブ＆特典会
@@ -297,7 +277,7 @@ URL:https://tower.jp/store/event/2026/10/101010
 END:VEVENT
 BEGIN:VEVENT
 UID:192e0a483605@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:【優先観覧＋フリー入場あり】譜久村聖 2ndシングル発売記念 ＜ミニライブ＆一言お話し会イベント＞
@@ -307,7 +287,7 @@ URL:https://sunshinecity.jp/event/entry-38809.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb5138c47df@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261029
 SUMMARY:【フリー入場あり】絵恋ちゃん 8thアルバム『エレニズム文化』発売記念 ミニライブ＆特典会 @タワーレコード錦糸町パルコ店
@@ -317,7 +297,7 @@ URL:https://tower.jp/store/event/2026/10/1451029e
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1dc25ebce7@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261030T100000
 DTEND;TZID=Asia/Tokyo:20261030T110000
 SUMMARY:【無料】～2026/11/01(日) 期間限定！サンシャインシティ館内で子ども服の寄付回収BOX設置♪
@@ -327,7 +307,7 @@ URL:https://sunshinecity.jp/event/entry-39050.html
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f51114cf3d@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261031T110000
 DTEND;TZID=Asia/Tokyo:20261031T120000
 SUMMARY:【観覧フリー】風男塾 ニューシングル「SETSUNA -刹那-」リリースイベント　ミニライブ・特典会
@@ -337,7 +317,7 @@ URL:https://tower.jp/store/event/2026/10/151008
 END:VEVENT
 BEGIN:VEVENT
 UID:1fef02fcfb3a@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261101T110000
 DTEND;TZID=Asia/Tokyo:20261101T120000
 SUMMARY:【観覧フリー】風男塾 ニューシングル「SETSUNA -刹那-」リリースイベント
@@ -347,7 +327,7 @@ URL:https://tower.jp/store/event/2026/11/112403
 END:VEVENT
 BEGIN:VEVENT
 UID:5be4379730e2@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261101T120000
 DTEND;TZID=Asia/Tokyo:20261101T130000
 SUMMARY:【観覧フリー】<東京会場>齋藤璃佑「2027年カレンダー発売記念イベント」追加開催決定！【1部】13:00～【2部】15:00～【3部】17:00～
@@ -357,7 +337,7 @@ URL:https://tower.jp/store/event/2026/11/055004
 END:VEVENT
 BEGIN:VEVENT
 UID:5caf255af6be@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
 SUMMARY:【フリー入場あり】甘党男子　ミニライブ＆特典会
@@ -367,7 +347,7 @@ URL:https://tower.jp/store/event/2026/11/0221101
 END:VEVENT
 BEGIN:VEVENT
 UID:368dc04ab269@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
 SUMMARY:【優先観覧＋フリー入場あり】【駒形友梨】リリースイベント
@@ -377,7 +357,7 @@ URL:https://tower.jp/store/event/2026/11/1451101yk
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd3e6271e8f@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261102T110000
 DTEND;TZID=Asia/Tokyo:20261102T120000
 SUMMARY:【無料】～2026/11/23(月) Dot Coloring Workshop@Sunshine City
@@ -387,7 +367,7 @@ URL:https://sunshinecity.jp/event/entry-38895.html
 END:VEVENT
 BEGIN:VEVENT
 UID:63b7c22fd4f5@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261103T093000
 DTEND;TZID=Asia/Tokyo:20261103T103000
 SUMMARY:【入場無料】サンシャインシティ・ビッグフリマ
@@ -397,7 +377,7 @@ URL:https://sunshinecity.jp/event/entry-39014.html
 END:VEVENT
 BEGIN:VEVENT
 UID:46ad91d922ea@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261105
 SUMMARY:【フリー入場あり】浜崎容子『マグマ』発売記念 ミニライブ＆特典会 @タワーレコード池袋店
@@ -406,8 +386,18 @@ DESCRIPTION:出演: 浜崎容子\n種別: フリー入場あり\n詳細: ミニ�
 URL:https://tower.jp/store/event/2026/11/014003
 END:VEVENT
 BEGIN:VEVENT
+UID:2c9d621995c3@fidle.local
+DTSTAMP:20261018T235454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+SUMMARY:【フリー入場あり】【びっくえんじぇる】ミニライブ＆特典会
+LOCATION:ららぽーと立川立飛2F イベント広場
+DESCRIPTION:出演: びっくえんじぇる\n種別: フリー入場あり\n詳細: ミニライブ / 特典会 / 優先観覧エリア券あり / フリー入場あり\nURL: https://tower.jp/store/event/2026/11/139001
+URL:https://tower.jp/store/event/2026/11/139001
+END:VEVENT
+BEGIN:VEVENT
 UID:412f6b985581@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261112
 SUMMARY:【フリー入場あり】甘党男子 ミニライブ＆特典会
@@ -417,7 +407,7 @@ URL:https://tower.jp/store/event/2026/11/112404
 END:VEVENT
 BEGIN:VEVENT
 UID:45a49f285113@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261115T124000
 DTEND;TZID=Asia/Tokyo:20261115T134000
 SUMMARY:【フリー入場あり】【佐々木李子】シングル「Still Water」リリースイベント決定！@タワーレコードアリオ亀有
@@ -427,7 +417,7 @@ URL:https://tower.jp/store/event/2026/11/101004
 END:VEVENT
 BEGIN:VEVENT
 UID:07512c96bda8@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
 SUMMARY:【優先観覧＋フリー入場あり】佐藤優樹 3rdシングル発売記念 ミニライブ＆一言お話し会イベント＜11/15 タワーレコード錦糸町パルコ店＞
@@ -437,7 +427,7 @@ URL:https://tower.jp/store/event/2026/11/1451115s
 END:VEVENT
 BEGIN:VEVENT
 UID:54868283d512@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261119
 SUMMARY:【フリー入場あり】甘党男子　ミニライブ＆特典会
@@ -447,7 +437,7 @@ URL:https://tower.jp/store/event/2026/11/055029
 END:VEVENT
 BEGIN:VEVENT
 UID:430f0146a594@fidle.local
-DTSTAMP:20261018T134532Z
+DTSTAMP:20261018T235454Z
 DTSTART;TZID=Asia/Tokyo:20261121T130000
 DTEND;TZID=Asia/Tokyo:20261121T140000
 SUMMARY:【フリー入場あり】青春CYBER×Last Prince 合同リリースイベント ミニライブ&特典会
